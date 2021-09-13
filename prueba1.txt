@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+probando las ramas del gitkraken
+=======
+probando las ramas d
+>>>>>>> develop
